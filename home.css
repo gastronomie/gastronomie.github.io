@@ -77,7 +77,7 @@ textarea
 }
 .wrapper
 {
-	background-image: url('graphics/spaceman1.png');
+	background-image: url('/graphics/spaceman1.png');
 	height: 600px; 
 	width: 100%;
 	background-repeat: no-repeat;
